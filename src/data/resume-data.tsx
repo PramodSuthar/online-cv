@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   about:
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
-    "As a Full Stack Engineer, I've adeptly pioneered the development of several products, leading teams to create an enabling environment for optimal performance. Presently, my focus revolves around TypeScript, React, Node.js, and MySQL. With over three years of experience, I've effectively operated in remote/hybrid settings across two continents.",
+    "As a Full Stack Engineer, I've had the privilege of spearheading the development of several products, working alongside talented teams to cultivate an environment that ensures optimal performance. Presently, my focus revolves around TypeScript, React, Node.js, and MySQL. With over three years of experience, I've effectively operated in remote/hybrid settings across two continents.",
   avatarUrl:
     "https://personal-buckets3.s3.ca-central-1.amazonaws.com/photoshot+(2).jpg",
   personalWebsiteUrl: "https://pramodsuthar.com",
